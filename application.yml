@@ -1,7 +1,0 @@
-server:
-  port: 10000
-  address: 0.0.0.0
-
-lavalink:
-  server:
-    password: "youshallnotpass"
